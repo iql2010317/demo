@@ -81,5 +81,16 @@ public class ArrayTest {
 //		List<String> strList = new ArrayList<>();
 //		List<Boolean> intList = new ArrayList<>();
 	}
+	
+	@Test
+	public void listTest2() {
+		int[]a = new int[3];
+		System.out.println(a.length);
+		int[]b =null;
+		System.out.println(b.length);
+		
+//		List<String> strList = new ArrayList<>();
+//		List<Boolean> intList = new ArrayList<>();
+	}
 
 }
